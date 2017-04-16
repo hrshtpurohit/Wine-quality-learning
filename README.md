@@ -1,2 +1,2 @@
 # Wine-quality-learning
-Using Machine Learning, training and testing the wine-quality dataset
+Using regression and classificaton models of machine learning, such as linear regression and perceptron learning, learned and tested wine quality.
